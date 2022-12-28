@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/BrianSison/BrianSison/main/PP.png"/>
 
-- 🌱 I’m currently learning **C++**
-
-- 👨‍💻 All of my projects are available at [https://github.com/BrianSison?tab=repositories](https://github.com/BrianSison?tab=repositories)
+<img align="center" src="https://raw.githubusercontent.com/BrianSison/BrianSison/main/CPP.png"/>
 
 <p align="left">
 </p>

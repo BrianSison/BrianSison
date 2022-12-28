@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/gWTNwmY/PP.png"/>
+<img src="https://github.com/BrianSison/BrianSison/blob/main/PP.png?raw=true"/>
 
 - 🌱 I’m currently learning **C++**
 

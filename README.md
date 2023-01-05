@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/BrianSison/BrianSison/main/Slide1.JPG"/>
 
-<img src="https://raw.githubusercontent.com/BrianSison/BrianSison/main/Slide2.JPG"/>
 
-<img src="https://raw.githubusercontent.com/BrianSison/BrianSison/main/Slide3.JPG"/>
 
 <img src="https://raw.githubusercontent.com/BrianSison/BrianSison/main/Slide4.JPG"/>
 
